@@ -1,0 +1,54 @@
+.main-title {
+	text-align: center;
+    padding: 5px;
+    background-color: #fde8e8;
+    font-size: 23px;
+}
+
+.main-content {
+	text-align: center;
+    background-color: #92c4ff;
+    padding: 10px;
+}
+
+.field-container {
+	margin-top: 10px;
+}
+
+.field-container label {
+	width: 60px;
+    display: inline-block;
+}
+
+.field-container input {
+	border-radius: 5px;
+    padding: 6px;
+    width: 250px;
+}
+
+.submit-container {
+	margin-top: 10px;
+}
+
+.submit-container .submit-button {
+	width: 100px;
+	line-height: 30px;
+	margin: auto;
+    background-color: #c33535;
+    color: white;
+    cursor: pointer;
+}
+
+.result-message {
+    margin-top: 10px;
+    color: white;
+    font-size: 23px;
+    font-style: italic;
+}
+
+.image {
+	display: none;
+	width: 30px;
+	height: 30px;
+	margin-top: 20px;
+}
